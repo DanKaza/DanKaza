@@ -18,7 +18,7 @@
 </p>
 
 ---
-### <center>Coding Streak🔥</center>
+<h2>Coding Streak 🔥</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DanKaza&theme=tokyonight" />
 </p>
