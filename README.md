@@ -14,9 +14,9 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src==h"https://skillicons.dev/icons?itml,css,js,java,php,mysql,nodejs,mongodb,express,python,bootstrap,vscode,git,github,npm,tensorflow,vite,postman,ubuntu,laravel"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,nodejs,mongodb,express,python,bootstrap,vscode,git,github,npm,tensorflow,vite,postman,ubuntu,laravel,cpp,figma,linux,kali,powershell" />
 
+</p>
 ---
 <h1 align="center">Coding Streak 🔥</h1>
 <p align="center">
