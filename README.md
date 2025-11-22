@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Wildan Mubarrok</h1>
-<h3 align="center">💻 A passionate student from Indonesia who loves learning about Backend, Frontend, and Machine Learning & AI.</h3>
+<h3 align="center">💻 loves learning about Backend, Frontend, and Machine Learning & AI.</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,nodejs,mongodb,express,python,bootstrap,vscode,git,github,npm,tensorflow,vite,postman,ubuntu,laravel,cpp,figma,linux,kali,powershell" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,nodejs,mongodb,express,python,bootstrap,vscode,git,github,npm,tensorflow,vite,postman,ubuntu,laravel,cpp,figma,linux,kali,powershell,tailwind,alpinejs,net,visualstudio,colab" />
 
 </p>
 ---
@@ -42,11 +42,13 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect 
 <p align="center">
   <a href="mailto:mubarrokwildan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://telegram.com/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
